@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "A powerful application that leverages the Gemini API to generate complete, single-page websites from a user's text description. Describe your desired website, and the AI will generate the HTML, CSS, and JavaScript for you.",
+  "requestFramePermissions": []
+}
